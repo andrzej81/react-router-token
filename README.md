@@ -1,5 +1,8 @@
 # Sample React App using react router and token base auth
 
+- save token in localstorage instead sessionStorage (user browser ability to start new session without login)
+- create custom hook to trigger a component to re-render
+
 Author: Andrzej Iwaniuk (2022)
 
 ## Scripts
