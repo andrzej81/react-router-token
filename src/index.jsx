@@ -6,6 +6,8 @@ import Dashboard from "./components/Dashboard/Dashboard.jsx";
 import Preferences from "./components/Preferences/Preferences.jsx";
 import Invoices from "./components/Invoices/Invoice.jsx";
 
+
+
 const rootElement = document.getElementById("root");
 render(
   <BrowserRouter>
